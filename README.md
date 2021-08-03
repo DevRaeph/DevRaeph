@@ -1,6 +1,6 @@
 ## Hey there, I'm [DevRaeph!](https://devraeph.com) 👋
 
-My name is Raphael Planer, I'm a self-taught Fullstack developer from Salzburg Austria.
+My name is Raphael Planer, I'm a self-taught Full Stack Developer from Salzburg Austria.
 
 **Languages and Tools:**  
 
