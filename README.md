@@ -21,8 +21,8 @@ My name is Raphael Planer, I'm a self-taught Full Stack Developer from Salzburg 
 </p>
 
 <p align="center">
-<img src="https://api.speedtyper.dev/users/DevRaeph/badges/averagewpm" alt="DevRaeph" height="25">
-<img src="https://api.speedtyper.dev/users/DevRaeph/badges/topwpm" alt="DevRaeph" height="25">
-<img src="https://api.speedtyper.dev/users/DevRaeph/badges/gamecount" alt="DevRaeph" height="25">
+<img src="https://api.speedtyper.dev/users/DevRaeph/badges/averagewpm?1" alt="DevRaeph" height="25">
+<img src="https://api.speedtyper.dev/users/DevRaeph/badges/topwpm?1" alt="DevRaeph" height="25">
+<img src="https://api.speedtyper.dev/users/DevRaeph/badges/gamecount?1" alt="DevRaeph" height="25">
 
 </p>
