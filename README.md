@@ -16,8 +16,8 @@ My name is Raphael Planer, I'm a self-taught Full Stack Developer from Salzburg 
 <code><img height="20" src="https://komarev.com/ghpvc/?username=DevRaeph&color=blue"></code>
 <br>
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=DevRaeph&count_private=true&theme=vue-dark" align = "center"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevRaeph&layout=compact&theme=vue-dark" align = "center"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevRaeph&count_private=true&theme=vue-dark" align = "center"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevRaeph&layout=compact&theme=vue-dark" align = "center"/>
 </p>
 
 <p align="center">
