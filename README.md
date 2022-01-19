@@ -16,16 +16,21 @@
 
 <p align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevRaeph&count_private=true&theme=vue-dark" align = "center"/>
+  <a target="_blank" href="https://wakatime.com/@DevRaeph">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevRaeph&layout=compact&theme=vue-dark" align = "center"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devraeph&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D" align="center">
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=devraeph&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D" align="center">
+  <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=solidshot_one&redirect=true">
+    <img height="200em" src="https://spotify-github-profile.vercel.app/api/view?uid=solidshot_one&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="center">
+  </a>
 </p>  
 
 <p align="center">
-<img src="https://api.speedtyper.dev/users/DevRaeph/badges/averagewpm?1" alt="DevRaeph" height="25">
-<img src="https://api.speedtyper.dev/users/DevRaeph/badges/topwpm?1" alt="DevRaeph" height="25">
-<img src="https://api.speedtyper.dev/users/DevRaeph/badges/gamecount?1" alt="DevRaeph" height="25">
+<img src="https://api.speedtyper.dev/users/DevRaeph/badges/averagewpm?1" alt="DevRaeph" height="20">
+<img src="https://api.speedtyper.dev/users/DevRaeph/badges/topwpm?1" alt="DevRaeph" height="20">
+<img src="https://api.speedtyper.dev/users/DevRaeph/badges/gamecount?1" alt="DevRaeph" height="20">
 
 </p>
