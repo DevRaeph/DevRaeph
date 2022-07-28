@@ -35,3 +35,9 @@
 <img src="https://api.speedtyper.dev/users/DevRaeph/badges/gamecount?1" alt="DevRaeph" height="20">
 
 </p>
+
+<p align="center">
+  <a href="https://ko-fi.com/A0A3E29FS">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="DevRaeph" height="32">
+  </a>
+</p>
