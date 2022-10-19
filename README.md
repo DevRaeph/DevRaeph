@@ -55,6 +55,7 @@
 
 <p align="center">
   <a href="https://ko-fi.com/A0A3E29FS">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="DevRaeph" height="32">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="DevRaeph" height="35">
   </a>
+  <a href="https://www.buymeacoffee.com/devraeph"><img height="35" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=devraeph&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </p>
